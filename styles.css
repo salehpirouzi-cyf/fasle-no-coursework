@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
 body {
     background: linear-gradient(135deg, black, #42046c);
+    font-family: 'Space Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-text {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
 }
